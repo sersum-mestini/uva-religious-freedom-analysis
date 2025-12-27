@@ -1,2 +1,3 @@
-# uva-religious-freedom-analysis
-Digital humanities project analyzing UVA's founding principles on religious diversity
+# UVA Religious Freedom Analysis
+
+This digital humanities project examines the founding principles of the University of Virginia concerning religious liberty and non-sectarianism. By analyzing key documents from Thomas Jefferson and the Board of Visitors, and contrasting them with the known religious backgrounds of the university's original faculty, the project aims to explore the alignment between stated ideals and early institutional practice. The repository serves as a collaborative workspace for this historical analysis.
